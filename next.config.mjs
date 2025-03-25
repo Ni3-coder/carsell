@@ -4,7 +4,7 @@ const nextConfig = {
     serverComponentsHmrCache: false, 
   },
   images: {
-    unoptimized: true,
+    domains: ["https://bxeymptieohwmqbyiwww.supabase.co"],
     remotePatterns: [
       {
         protocol: "https",
